@@ -2,3 +2,6 @@
 	path = flutter_first_app_pt1
 	url = https://github.com/cnrtsvr/flutter_first_app_pt1.git
     branch = master
+[submodule "flutter_first_app_pt2"]
+	path = flutter_first_app_pt2
+	url = https://github.com/cnrtsvr/flutter_first_app_pt2.git
