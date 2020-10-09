@@ -5,3 +5,8 @@
 [submodule "flutter_first_app_pt2"]
 	path = flutter_first_app_pt2
 	url = https://github.com/cnrtsvr/flutter_first_app_pt2.git
+	branch = master
+[submodule "flutter_beautiful_UIs"]
+	path = flutter_beautiful_UIs
+	url = https://github.com/cnrtsvr/flutter_beautiful_UIs.git
+	branch = master
